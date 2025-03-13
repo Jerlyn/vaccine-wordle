@@ -1,6 +1,7 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# dependencies
+
+# Create the file using a text editor or command
+echo "# dependencies
 /node_modules
 /.pnp
 .pnp.js
@@ -20,4 +21,4 @@
 
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
+yarn-error.log*" > .gitignore
