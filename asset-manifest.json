@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vaccine-wordle/static/css/main.424c9cad.css",
+    "main.js": "/vaccine-wordle/static/js/main.c8cc6098.js",
+    "index.html": "/vaccine-wordle/index.html",
+    "main.424c9cad.css.map": "/vaccine-wordle/static/css/main.424c9cad.css.map",
+    "main.c8cc6098.js.map": "/vaccine-wordle/static/js/main.c8cc6098.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.424c9cad.css",
+    "static/js/main.c8cc6098.js"
+  ]
+}
